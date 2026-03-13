@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Systems+Architect;AI+%26+Machine+Learning+%7C+Data+Engineering;Blockchain+%26+Distributed+Ledger+Research;Building+Scalable+Production+Systems" />
 </p>
 
-## 🚀 Engineering Philosophy
+## Engineering Philosophy
 
 I am a **Third-Year Computer Science Engineer** focused on designing intelligent, scalable systems. My engineering foundation is built on theoretical computer science (Automata, Formal Languages) and rigorous software design principles, allowing me to build applications that are architecturally sound from the ground up.
 
@@ -17,31 +17,31 @@ My core areas of focus include:
 
 ---
 
-## 🛠 Featured Projects & Research
+## Featured Projects & Research
 
-### 🏢 OpsGate | AI Operations Assistant
+### OpsGate | AI Operations Assistant
 *An intelligent operations platform engineered to streamline complex workflows for small businesses.*
 * **Architecture:** Full-stack **MERN** implementation integrated with custom machine learning models to automate operational bottlenecks.
 * **Infrastructure:** Distributed deployment utilizing **Vercel** for an optimized frontend edge network and **AWS EC2** for rigorous backend processing.
 
-### 🩸 FemCare | AI-Driven Health Systems
+### FemCare | AI-Driven Health Systems
 *A high-precision wellness engine designed for medical reliability and data privacy.*
 * **Predictive Logic:** Engineered a custom roll-forward algorithm to handle biological variance in cycle tracking.
 * **Data Integrity:** Implemented a Firebase NoSQL architecture with strict access controls to ensure secure data handling.
 * **Tech Stack:** `Java` • `Android SDK` • `Firebase NoSQL` • `MPAndroidChart`
 
-### 🤖 Syrus2026 – ZeroOne | Multi-Agent Debugging 
+### Syrus2026 – ZeroOne | Multi-Agent Debugging 
 *A sophisticated CI/CD integration designed to identify, correct, and validate automated fixes.*
 * **Automation:** Designed iterative validation loops to test fixes before pipeline integration, effectively automating the debugging lifecycle.
 * **Focus:** SDLC optimization, version control workflows, and system architecture.
 
-### 🔐 Blockchain Security Capstone (In Progress)
+### Blockchain Security Capstone (In Progress)
 *Academic research focused on the intersection of distributed ledgers and digital securities.*
 * **Objective:** Developing a highly secure, patentable blockchain product focusing on consensus implementation and cryptographic integrity.
 
 ---
 
-## 🏗 Technical Arsenal
+## Technical Arsenal
 
 | Domain | Technologies & Concepts |
 | :--- | :--- |
@@ -53,7 +53,7 @@ My core areas of focus include:
 
 ---
 
-## 📈 Engineering Impact
+## Engineering Impact
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hitenbhurani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
