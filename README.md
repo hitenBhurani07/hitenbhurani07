@@ -1,99 +1,73 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hiten%20Bhurani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI+%7C+Data+%7C+Blockchain;Mobile+%26+Full-Stack+Developer;Systems+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Systems+Architect;AI+%26+Machine+Learning+%7C+Data+Engineering;Blockchain+%26+Distributed+Ledger+Research;Building+Scalable+Production+Systems" />
 </p>
 
----
+## 🚀 Engineering Philosophy
 
-## About Me
+I am a **Third-Year Computer Science Engineer** focused on designing intelligent, scalable systems. My engineering foundation is built on theoretical computer science (Automata, Formal Languages) and rigorous software design principles, allowing me to build applications that are architecturally sound from the ground up.
 
-I am Hiten, a Third-Year Computer Science Engineer focused on building production-grade systems that combine intelligence, scalability, and real-world usability.
-
-My engineering interests span:
-
-- Data Engineering & Predictive Systems  
-- Blockchain & Distributed Architectures  
-- AI-Driven Mobile Applications  
-- Secure Backend Design  
-
-I prioritize structured system design, clean architecture, and performance-aware implementation over surface-level development.
+My core areas of focus include:
+- **Predictive AI & Machine Learning:** Implementing ensemble methods and dimensionality reduction for real-world applications.
+- **Data Engineering:** Architecting ETL pipelines and working with Big Data frameworks (Spark, Hadoop).
+- **Blockchain Security:** Researching distributed consensus and smart contracts for patentable architectures.
 
 ---
 
-## Featured Project — FemCare
+## 🛠 Featured Projects & Research
 
-**FemCare** is an AI-powered menstrual health tracking and wellness assistant engineered for reliability, privacy, and medical usability.
+### 🏢 OpsGate | AI Operations Assistant
+*An intelligent operations platform engineered to streamline complex workflows for small businesses.*
+* **Architecture:** Full-stack **MERN** implementation integrated with custom machine learning models to automate operational bottlenecks.
+* **Infrastructure:** Distributed deployment utilizing **Vercel** for an optimized frontend edge network and **AWS EC2** for rigorous backend processing.
 
-### Core Capabilities
+### 🩸 FemCare | AI-Driven Health Systems
+*A high-precision wellness engine designed for medical reliability and data privacy.*
+* **Predictive Logic:** Engineered a custom roll-forward algorithm to handle biological variance in cycle tracking.
+* **Data Integrity:** Implemented a Firebase NoSQL architecture with strict access controls to ensure secure data handling.
+* **Tech Stack:** `Java` • `Android SDK` • `Firebase NoSQL` • `MPAndroidChart`
 
-🔹 **Smart Predictive Tracking**  
-Implements a roll-forward algorithm to dynamically adjust cycle predictions based on biological irregularities.
+### 🤖 Syrus2026 – ZeroOne | Multi-Agent Debugging 
+*A sophisticated CI/CD integration designed to identify, correct, and validate automated fixes.*
+* **Automation:** Designed iterative validation loops to test fixes before pipeline integration, effectively automating the debugging lifecycle.
+* **Focus:** SDLC optimization, version control workflows, and system architecture.
 
-🔹 **Advanced Data Visualization**  
-Aesthetic Gradient-based symptom trend charts powered by MPAndroidChart with full Dark Mode support.
-
-🔹 **Medical-Grade Export System**  
-Generates structured, professional PDF reports for doctor consultations.
-
-🔹 **Secure Cloud Architecture**  
-Firebase Firestore backend with structured data modeling and access control.
-
-### Tech Stack
-
-Java • Android SDK • Firebase Firestore • MPAndroidChart • REST APIs  
-
----
-
-## Additional Work
-
-### 🔹 Syrus2026 – ZeroOne  
-Multi-agent debugging system designed to identify, correct, validate, and push automated fixes within a repository pipeline.
-
-Focus: Automation architecture, iterative validation loops, GitHub integration.
+### 🔐 Blockchain Security Capstone (In Progress)
+*Academic research focused on the intersection of distributed ledgers and digital securities.*
+* **Objective:** Developing a highly secure, patentable blockchain product focusing on consensus implementation and cryptographic integrity.
 
 ---
 
-## Technical Stack
+## 🏗 Technical Arsenal
 
-### Languages
-Java • JavaScript • SQL  
-
-### Mobile Development
-Android Studio (Java/XML)  
-
-### Web Development
-MERN Stack (MongoDB • Express • React • Node.js)
-
-### Specializations
-Database Design (RBAC) • API Integration • Event-Driven Systems • Modular Architecture  
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), SQL |
+| **Data & AI** | Spark, Hadoop, NoSQL, ETL Pipelines, ML (Ensemble/Clustering) |
+| **Backend & Cloud** | Node.js, Express, AWS EC2, Vercel, Firebase |
+| **Frontend & Mobile** | React.js, Android Studio (Native Java), XML Layouts |
+| **Architecture** | Microservices, UML, RBAC Systems, SDLC Methodologies |
 
 ---
 
-## Engineering Focus
+## 📈 Engineering Impact
 
-- Refining predictive system logic in FemCare  
-- Exploring Blockchain security models for capstone research  
-- Designing automation-based architectures in hackathons  
-
----
-
-## GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitenbhurani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitenbhurani&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hitenbhurani&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitenbhurani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 ---
 
 <p align="center">
-  <i>Engineering systems that solve practical problems — not just academic exercises.</i>
+  <i>"Engineering systems that solve practical problems — not just academic exercises."</i>
+  <br />
+  <b>Let's build something efficient.</b>
 </p>
