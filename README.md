@@ -2,6 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Hiten%20Bhurani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<table align="center" style="border: none; background-color: transparent; margin-bottom: 20px;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" width="220" style="border: none;">
+      <img src="[PASTE_YOUR_COPIED_IMAGE_ADDRESS_HERE](https://github.com/hitenBhurani07/hitenbhurani07/issues/2#issue-4246530645)" width="200" style="border-radius: 15px;" alt="Hiten Bhurani" />
+    </td>
+    <td align="left" width="360" style="border: none;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=320&height=120&lines=Dark+mode?;You+merely+adopted+the+dark.;I+was+born+in+it.;Now+go+fix+your+bugs." style="border-radius: 15px;" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Systems+Architect;AI+%26+Machine+Learning+%7C+Data+Engineering;Blockchain+%26+Distributed+Ledger+Research;Building+Scalable+Production+Systems" />
 </p>
