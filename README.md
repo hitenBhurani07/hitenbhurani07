@@ -3,7 +3,7 @@
 <table align="center" style="border: none; background-color: transparent; margin-bottom: 10px;">
   <tr style="border: none; background-color: transparent;">
     <td align="center" width="220" style="border: none;">
-      <img src="https://private-user-images.githubusercontent.com/267858409/577020094-a201cd79-9970-4980-afe4-c99dac07d3bc.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU5NjkxMzIsIm5iZiI6MTc3NTk2ODgzMiwicGF0aCI6Ii8yNjc4NTg0MDkvNTc3MDIwMDk0LWEyMDFjZDc5LTk5NzAtNDk4MC1hZmU0LWM5OWRhYzA3ZDNiYy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDQxMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA0MTJUMDQ0MDMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MGFhOTJkODhlZmY5Zjg3NDkxNmE0MmY5ZGViYTBjMDM0YWE1MGYxMTUxMGJhZjM2Mzc0NTMwMTEyZGNkZGFhMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.RMLFALtZLbt-OQnc34OJi2bgAfIWQnNpQL_d8agIDB4" width="190" style="border-radius: 50%; border: 4px solid #00C6FF; box-shadow: 0 0 20px rgba(0, 198, 255, 0.4);" alt="Hiten Bhurani" />
+      <img src="profile-pic.jpeg" width="190" style="border-radius: 50%; border: 4px solid #00C6FF; box-shadow: 0 0 20px rgba(0, 198, 255, 0.4);" alt="Hiten Bhurani" />
     </td>
     <td align="left" width="360" style="border: none;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=2000&color=00C6FF&background=0f0c2900&center=true&vCenter=true&width=320&height=120&lines=Dark+mode?;You+merely+adopted+the+dark.;I+was+born+in+it.;Now+go+fix+your+bugs." />
@@ -84,16 +84,16 @@ I am a Computer Science Engineering student focused on building rather than just
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/hitenbhurani">
-    <img src="https://github-readme-stats.vercel.app/api?username=hitenbhurani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=00C6FF&text_color=ffffff&icon_color=00C6FF" width="48%" />
+  <a href="https://github.com/hitenBhurani07">
+    <img src="https://github-readme-stats.vercel.app/api?username=hitenBhurani07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f0c29&title_color=00C6FF&text_color=ffffff&icon_color=00C6FF" width="48%" />
   </a>
-  <a href="https://github.com/hitenbhurani">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitenbhurani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00C6FF&text_color=ffffff" width="48%" />
+  <a href="https://github.com/hitenBhurani07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitenBhurani07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00C6FF&text_color=ffffff" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hitenbhurani&theme=tokyonight&hide_border=true&background=0f0c29&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=hitenBhurani07&theme=tokyonight&hide_border=true&background=0f0c29&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff" />
 </p>
 
 <br>
